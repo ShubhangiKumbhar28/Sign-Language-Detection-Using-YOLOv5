@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/SignLanguageDetection/SignLangData/train/images
+val: /content/drive/MyDrive/SignLanguageDetection/SignLangData/test/images
+
+nc: 7
+names: ['Hello','IloveYou','No','Please','Sorry','ThankYou','Yes']
