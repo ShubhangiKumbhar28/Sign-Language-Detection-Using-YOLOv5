@@ -1,6 +1,11 @@
 # Sign-Language-Detection-Using-YOLOv5
 
-This project aims to detect sign language gestures using YOLOv5. Follow the steps below to set up and run the project.
+This project developed using YOLOv5 and aims to detect sign language gestures .
+I collected sign language images, annotated them with labelImg, and trained a model. Download the best.pt model to experience  sign language detection. Use the provided script (python run.py) for live camera testing and test the model's ability to identify specific sign language classes ('Hello','Yes','No','Thanks','Sorry','IloveYou','Please').
+
+ 
+
+Follow the steps below to set up and run the project.
 
 Step 1: Capture Images
 
@@ -42,6 +47,17 @@ To perform live detection on classes the model has been trained on.
 ```
 python run.py
 ```
+
+# Sign Language Detection Using YOLOv5
+
+
+```
+
+![No](images/sign_language_gesture.png)
+
+```
+
+
 
 
 
