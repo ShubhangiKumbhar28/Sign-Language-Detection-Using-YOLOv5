@@ -45,5 +45,4 @@ python run.py
 
 
 
-![Alt text](image.png)
 
